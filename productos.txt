@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Disco Rígido WD 1TB BLUE 64MB SATA 6.0GB/s",
+    "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_9018_Disco_R__gido_WD_1TB_BLUE_64MB_SATA_6.0GB_s__ca74d162-med.jpg",
+    "price": 5795,
+    "id": 1
+  },
+  {
+    "title": "Placa de Video GALAX GeForce GTX 1660 Ti 6GB GDDR6 1-Click OC",
+    "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32387_Placa_de_Video_GALAX_GeForce_GTX_1660_Ti_6GB_GDDR6_1-Click_OC_def7e491-med.jpg",
+    "price": 67000,
+    "id": 2
+  },
+  {
+    "title": "Monitor LG LED 19 19M38A-B VGA",
+    "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_8683_Monitor_LG_LED_19___19M38A-B_VGA_4607eba4-med.jpg",
+    "price": 24430,
+    "id": 3
+  }
+]
